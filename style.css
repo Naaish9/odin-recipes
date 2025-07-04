@@ -1,33 +1,42 @@
-body{
-    background-color: blanchedalmond;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+body {
+    background-color: rgb(255, 223, 176);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 
-.title{
+.title {
     font-size: 80px;
     text-align: center;
 }
 
-.recipes{
+.recipes {
     font-size: 20px;
     text-align: center;
     list-style-type: none;
-    
+
 }
 
-img{
+img {
     border-radius: 50px;
-    
+
 }
 
-.image{
+.image {
     margin-left: 1000px;
 
 }
 
-.desc-title{
+.sub-titles {
+     margin-bottom: 0px;
+    margin-left: 20px;
     font-size: 30px;
-    margin-bottom: 0px;
-    color:rgb(161, 61, 3)
+   
+    color: rgb(161, 61, 3)
+
+}
+
+.text{
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 18px;
 }
